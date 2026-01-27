@@ -10,5 +10,5 @@ HOW TO RUN APPLICATION LOCALLY
 2. Open terminal in the project folder
 3. Make sure flask is installed
 4. Run the application app.py file
-5. Open a web browser and go to http://127.0.0.1:5000
+5. Open a web browser and go to http://127.0.0.1:8000
 7. The message "Hello World! Dione Julia Pelicano"  will appear
